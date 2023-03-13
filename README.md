@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohamed habiballah</h1>
+<h1 align="center">Hi 👋, I'm Mohamed Habib Allah</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedhabiballah1&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedhabiballah1" /> </p>
 
 - 🔭 I’m currently working on [Philosophers project](https://cdn.intra.42.fr/pdf/pdf/65821/en.subject.pdf)
