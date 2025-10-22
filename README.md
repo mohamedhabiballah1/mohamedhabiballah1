@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohamed Habib Allah</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedhabiballah1&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedhabiballah1" /> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Java**
 
-- 💬 Ask me about **C**
-
-- 📫 How to reach me **habibsimo692@gmail.com**
+- 📫 How to reach me **habiballahmohamed373@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
