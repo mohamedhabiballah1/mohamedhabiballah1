@@ -1,20 +1,69 @@
-<h1 align="center">Hi 👋, I'm Mohamed Habib Allah</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedhabiballah1&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedhabiballah1" /> </p>
+<h1 align="center">👋 Hi, I'm Mohamed Habib Allah</h1>
+<h3 align="center">💻 Full Stack Developer | React • Node.js • Django</h3>
 
-- 🌱 I’m currently learning **Java**
-
-- 📫 How to reach me **habiballahmohamed373@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mohamed habib allah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed habib allah" height="30" width="40" /></a>
-<a href="https://fb.com/mohamed hl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohamed hl" height="30" width="40" /></a>
-<a href="https://instagram.com/m_hamed_0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m_hamed_0" height="30" width="40" /></a>
+<p align="center">
+  🚀 Passionate about building scalable web applications, real-time systems, and impactful digital solutions.  
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedhabiballah1&show_icons=true&locale=en&layout=compact" alt="mohamedhabiballah1" /></p>
+### 🧠 About Me  
+I'm a **Full Stack Developer** currently studying at **École 1337 (Khouribga, Morocco)** — a project-based software engineering program of the 42 Network.  
+My journey is driven by curiosity and a strong desire to build efficient, user-friendly, and maintainable applications from backend architecture to polished UI.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedhabiballah1&show_icons=true&locale=en" alt="mohamedhabiballah1" /></p>
+I’ve worked on various full-stack projects combining **React**, **Node.js**, **Django**, and **PostgreSQL**, and gained hands-on experience in **DevOps**, **API design**, and **real-time applications**.
+
+---
+
+### 🎓 Education  
+**École 1337 — Software Engineering Program**  
+*2022 – Present, Khouribga, Morocco*  
+- Peer-to-peer, project-based learning focused on algorithms, full-stack web development, and system architecture.  
+- Developed strong foundations in **C/C++**, **Python**, **JavaScript**, **React**, and **Docker**.  
+- Built large-scale collaborative projects like **Ft_Transcendence** (real-time multiplayer game) and **Inception** (Docker-based system architecture).  
+
+---
+
+### 💼 Experience  
+**Full Stack Developer Intern — AdClair / DevSuite**  
+*Dec 2024 – Jun 2025*  
+- Developed internal advertising tools and dashboards using **React**, **TypeScript**, and **Node.js**.  
+- Integrated **Meta Ads API** for campaign data management and real-time analytics.  
+- Improved backend performance with modular architecture and optimized RESTful APIs.  
+
+---
+
+### 🚀 Notable Projects  
+**🧩 Coashy — Coaching Management Platform**  
+Full-stack web platform for coaches to manage clients, sessions, and progress tracking using **React**, **Node.js**, and **PostgreSQL**.  
+
+**🎮 Ft_Transcendence — Real-Time Multiplayer Game**  
+Online Pong-style game with matchmaking, chat, and authentication using **React**, **WebSockets**, and **Node.js**.  
+
+**🐳 Inception — DevOps Project**  
+Deployed a complete multi-service infrastructure using **Docker**, **Nginx**, **WordPress**, and **MariaDB**, focusing on scalability and system reliability.  
+
+**🔗 LightFunnels – AdClair Integration**  
+Middleware integration app automating order synchronization between **LightFunnels** and **AdClair** via **webhooks** and **REST APIs**.
+
+---
+
+### 🧰 Tech Stack  
+**Frontend:** React, TypeScript, JavaScript, Tailwind CSS  
+**Backend:** Node.js, Django, Python, REST APIs  
+**Database:** PostgreSQL, MongoDB  
+**DevOps:** Docker, Git, CI/CD  
+**Other:** C, C++, WebSockets, Linux  
+
+---
+
+### 📫 Connect with Me  
+- 📧 **habiballahmohamed373@gmail.com**  
+- 💼 [LinkedIn](https://www.linkedin.com/in/mohamed-habib-allah-545ab8241/)  
+- 💻 [GitHub](https://github.com/mohamedhabiballah1)  
+
+---
+
+<p align="center">
+  <i>“Code with clarity, build with purpose, and learn without limits.”</i>
+</p>
