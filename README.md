@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Mohamed Habib Allah</h1>
-<h3 align="center">💻 Full Stack Developer | React • Node.js • Django</h3>
+<h3 align="center">💻 Full Stack Developer | MERN Stack </h3>
 
 <p align="center">
   🚀 Passionate about building scalable web applications, real-time systems, and impactful digital solutions.  
