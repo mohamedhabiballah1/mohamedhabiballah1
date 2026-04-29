@@ -33,20 +33,6 @@ I’ve worked on various full-stack projects combining **React**, **Node.js**, *
 
 ---
 
-### 🚀 Notable Projects  
-**🧩 Coashy — Coaching Management Platform**  
-Full-stack web platform for coaches to manage clients, sessions, and progress tracking using **React**, **Node.js**, and **PostgreSQL**.  
-
-**🎮 Ft_Transcendence — Real-Time Multiplayer Game**  
-Online Pong-style game with matchmaking, chat, and authentication using **React**, **WebSockets**, and **Node.js**.  
-
-**🐳 Inception — DevOps Project**  
-Deployed a complete multi-service infrastructure using **Docker**, **Nginx**, **WordPress**, and **MariaDB**, focusing on scalability and system reliability.  
-
-**🔗 LightFunnels – AdClair Integration**  
-Middleware integration app automating order synchronization between **LightFunnels** and **AdClair** via **webhooks** and **REST APIs**.
-
----
 
 ### 🧰 Tech Stack  
 **Frontend:** React, TypeScript, JavaScript, Tailwind CSS  
