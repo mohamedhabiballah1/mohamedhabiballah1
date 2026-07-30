@@ -4,9 +4,9 @@
 <!-- Fill the two [BRACKETS] (LinkedIn + email). Delete this block. -->
 <!-- ============================================================= -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="assets/logo-reveal.gif" alt="MHL Dev" width="380" />
-</p>
+</p> -->
 
 <h1 align="center">Hi, I'm Mohamed</h1>
 
