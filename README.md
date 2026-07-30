@@ -1,55 +1,53 @@
-<h1 align="center">👋 Hi, I'm Mohamed Habib Allah</h1>
-<h3 align="center">💻 Full Stack Developer | MERN Stack </h3>
-
 <p align="center">
-  🚀 Passionate about building scalable web applications, real-time systems, and impactful digital solutions.  
+  <img src="assets/logo-reveal.gif" alt="MHL Dev" width="380" />
 </p>
 
----
+<h1 align="center">Hi, I'm Mohamed 👋</h1>
 
-### 🧠 About Me  
-I'm a **Full Stack Developer** currently studying at **École 1337 (Khouribga, Morocco)** — a project-based software engineering program of the 42 Network.  
-My journey is driven by curiosity and a strong desire to build efficient, user-friendly, and maintainable applications from backend architecture to polished UI.
+<h3 align="center">Full-Stack Web Developer</h3>
 
-I’ve worked on various full-stack projects combining **React**, **Node.js**, **Django**, and **PostgreSQL**, and gained hands-on experience in **DevOps**, **API design**, and **real-time applications**.
+I build fast, secure, and reliable web applications for businesses and founders who want software that actually works in production — not just on a demo screen.
 
----
-
-### 🎓 Education  
-**École 1337 — Software Engineering Program**  
-*2022 – Present, Khouribga, Morocco*  
-- Peer-to-peer, project-based learning focused on algorithms, full-stack web development, and system architecture.  
-- Developed strong foundations in **C/C++**, **Python**, **JavaScript**, **React**, and **Docker**.  
-- Built large-scale collaborative projects like **Ft_Transcendence** (real-time multiplayer game) and **Inception** (Docker-based system architecture).  
+I don't only make things *run*. I care about the details clients feel later: page speed, clean architecture, and security done right — so what I deliver holds up under real users and keeps working as the business grows.
 
 ---
 
-### 💼 Experience  
-**Full Stack Developer Intern — AdClair / DevSuite**  
-*Dec 2024 – Jun 2025*  
-- Developed internal advertising tools and dashboards using **React**, **TypeScript**, and **Node.js**.  
-- Integrated **Meta Ads API** for campaign data management and real-time analytics.  
-- Improved backend performance with modular architecture and optimized RESTful APIs.  
+## 🛠️ What I do
+
+I design and build complete web applications end to end — from the database to the interface — and hand over work that's ready to ship.
+
+- **Custom web apps** — dashboards, booking systems, internal tools, SaaS products
+- **Modern websites** — fast, responsive, and built to convert visitors into customers
+- **Full ownership** — I take a project from idea to a deployed, working product
 
 ---
 
+## ⚙️ My stack
 
-### 🧰 Tech Stack  
-**Frontend:** React, TypeScript, JavaScript, Tailwind CSS  
-**Backend:** Node.js, Django, Python, REST APIs  
-**Database:** PostgreSQL, MongoDB  
-**DevOps:** Docker, Git, CI/CD  
-**Other:** C, C++, WebSockets, Linux  
+I work primarily with the **MERN stack**, which lets me build and ship complete, scalable applications efficiently:
 
----
-
-### 📫 Connect with Me  
-- 📧 **habiballahmohamed373@gmail.com**  
-- 💼 [LinkedIn](https://www.linkedin.com/in/mohamed-habib-allah-545ab8241/)  
-- 💻 [GitHub](https://github.com/mohamedhabiballah1)  
+- **Frontend** — React
+- **Backend** — Node.js + Express
+- **Database** — MongoDB
+- **And everything around it** — REST APIs, authentication, integrations, and deployment
 
 ---
 
-<p align="center">
-  <i>“Code with clarity, build with purpose, and learn without limits.”</i>
-</p>
+## 🔒 How I deliver proper work
+
+- **Performance-first** — I optimize load times, database queries, and rendering so your app stays fast as it scales.
+- **Security by default** — proper authentication, input validation, and protection against common vulnerabilities — built in, not bolted on.
+- **Clean, maintainable code** — so your project can be extended later without starting from scratch.
+- **Clear communication** — you'll always know what's being built and where things stand.
+
+---
+
+## 📬 Let's work together
+
+I'm currently available for freelance projects.
+
+- 🌍 **Portfolio** — [habiballahmohamed.vercel.app](https://habiballahmohamed.vercel.app)
+- 💼 **LinkedIn** — *add your link*
+- 📧 **Email** — *add your email*
+
+*Have a project in mind? Reach out — I'd like to hear what you're building.*
