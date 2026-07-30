@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 200" role="img" aria-label="Want something like this? Let's build it.">
+  <defs>
+    <clipPath id="card"><rect x="0" y="0" width="1200" height="200" rx="18"/></clipPath>
+    <linearGradient id="sheen" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"  stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.06"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g clip-path="url(#card)" font-family="'Segoe UI', Helvetica, Arial, sans-serif">
+    <rect x="0" y="0" width="1200" height="200" fill="#1b2932"/>
+    <!-- moving sheen -->
+    <rect x="-500" y="0" width="500" height="200" fill="url(#sheen)" transform="skewX(-18)">
+      <animate attributeName="x" from="-500" to="1400" dur="5.5s" repeatCount="indefinite"/>
+    </rect>
+    <!-- subtle green glow arc bottom -->
+    <rect x="0" y="197" width="1200" height="3" fill="#2d8a6e"/>
+    <text x="600" y="88" text-anchor="middle" fill="#f5f3f1" font-size="38" font-weight="700" letter-spacing="0.3">Want something like this?</text>
+    <text x="600" y="128" text-anchor="middle" fill="#9fb0ac" font-size="19" font-weight="400">Custom web apps, built properly — from idea to launch.</text>
+    <!-- brand wordmark -->
+    <g transform="translate(551,158)">
+      <text x="0" y="0" fill="#f5f3f1" font-size="24" font-weight="800" letter-spacing="0.5">mhl</text>
+      <circle cx="52" cy="-6" r="6" fill="#2d8a6e">
+        <animate attributeName="opacity" values="0.35;1;0.35" dur="2.2s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+  </g>
+</svg>
